@@ -13,3 +13,11 @@ function multiply(a, b) {
 function divide(a, b) {
   return (a / b);
 }
+
+inc(n) {
+  return (n+=1);
+}
+
+dec(n) {
+  return (n-=1);
+}
